@@ -1,6 +1,6 @@
 # Модифицированные биосы для maxsun LGA1700
 
-![Screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
 Есть 3 биоса: `*_1`, `*_2`, `*_3`
 
